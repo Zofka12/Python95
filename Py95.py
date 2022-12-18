@@ -1,0 +1,2 @@
+x = pizzas
+print(x)
